@@ -1,0 +1,22 @@
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+.channel-card {
+  width: 180px;
+  background: #1c1c1e;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+.channel-card:hover {
+  transform: scale(1.03);
+  background: #2c2c2e;
+}
+.channel-logo {
+  width: 100%;
+  height: 100px;
+  object-fit: cover;
+  background: #000;
+}
