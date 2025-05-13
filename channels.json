@@ -1,0 +1,2282 @@
+[
+  {
+    "name": "NBA TV PH",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "NBA\ud83c\udfc0",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/iptv/nbatvphilippines/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a"
+  },
+  {
+    "name": "NBA LIVE",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "NBA\ud83c\udfc0",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/bRtT37sn3w/Sx5q6YTgCs/11.m3u8"
+  },
+  {
+    "name": "NBA LIVE",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "NBA\ud83c\udfc0",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/bRtT37sn3w/Sx5q6YTgCs/11.m3u82f8a60f"
+  },
+  {
+    "name": "NBA TV USA",
+    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true",
+    "group": "NBA\ud83c\udfc0",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/NBATV/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "NBA TV USA (SD)",
+    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true",
+    "group": "NBA\ud83c\udfc0",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/NBATV/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "4K TRAVEL",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "PH CHANNELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8"
+  },
+  {
+    "name": "A2Z/ABS CBN",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "PH CHANNELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/restream/alltv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
+  },
+  {
+    "name": "ALL TV",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "PH CHANNELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/restream/alltv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
+  },
+  {
+    "name": "BUKO CHANNEL",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "PH CHANNELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/restream/alltv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
+  },
+  {
+    "name": "CELESTIAL MOVIE",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "PH CHANNELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/restream/alltv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
+  },
+  {
+    "name": "CINEMA ONE GLOBAL",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "PH CHANNELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/iptv/cinemaoneglobal/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a"
+  },
+  {
+    "name": "CINEMA ONE PH",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "PH CHANNELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/iptv/cinemaoneph/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a"
+  },
+  {
+    "name": "CINEMO GLOBAL",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "PH CHANNELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/iptv/cinemoglobal/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a"
+  },
+  {
+    "name": "CINEMO PH",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "PH CHANNELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/iptv/cinemoph/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a"
+  },
+  {
+    "name": "DZBB SUPER RADYO",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "PH CHANNELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/ioslive/livestream/playlist.m3u8"
+  },
+  {
+    "name": "GMA",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "PH CHANNELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/restream/gma/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
+  },
+  {
+    "name": "GTV",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "PH CHANNELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/restream/gma/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
+  },
+  {
+    "name": "IBC",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "PH CHANNELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/restream/gma/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
+  },
+  {
+    "name": "HEART OF ASIA",
+    "logo": "tvg-logo=",
+    "group": "PH CHANNELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/iptv/heartofasia/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a"
+  },
+  {
+    "name": "I HEART MOVIES",
+    "logo": "tvg-logo=",
+    "group": "PH CHANNELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/iptv/iheartmovies/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a"
+  },
+  {
+    "name": "JEEPNEY TV",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "PH CHANNELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/restream/jeepneytv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
+  },
+  {
+    "name": "KAPAMILYA CHANNEL",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "PH CHANNELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/restream/kapamilyachannel/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
+  },
+  {
+    "name": "PBA RUSH",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "PH CHANNELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/iptv/pbarush/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a"
+  },
+  {
+    "name": "One News HD",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "PH CHANNELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/iptv/gmanewstv/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a"
+  },
+  {
+    "name": "ONE SPORTS+",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "PH CHANNELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/iptv/onesports/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a"
+  },
+  {
+    "name": "RPTV",
+    "logo": "https://i.imgur.com/HvKsHvx.png group-title=",
+    "group": "PH CHANNELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/iptv/rptv/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a"
+  },
+  {
+    "name": "Thrillers",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "PH CHANNELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/playlist.m3u8"
+  },
+  {
+    "name": "TV5",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "PH CHANNELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/iptv/tv5hd/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a"
+  },
+  {
+    "name": "VIVA CINEMA",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "PH CHANNELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/iptv/vivacinema/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a"
+  },
+  {
+    "name": "DREAMWORKS TAGALIZED",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/iptv/dreamworkstagalized/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a"
+  },
+  {
+    "name": "ANIME ALL DAY",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8"
+  },
+  {
+    "name": "ANIME ALL DAY",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8"
+  },
+  {
+    "name": "ANIME * HIDAVE",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/192.m3u8"
+  },
+  {
+    "name": "BABY SHARK TV",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/3000.m3u8"
+  },
+  {
+    "name": "BARBIE AND FRIENDS",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jh1ol665g3amg/09a20cb2-e0e7-4e17-afdb-aa6b35ce6da0/3.m3u8"
+  },
+  {
+    "name": "BOOMERANG TV",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/BOOMERANG/index.m3u8"
+  },
+  {
+    "name": "CARTOONITO",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/live/disk1/Boomerang/HLS-FTA/Boomerang-avc1_3000000=8.m3u8"
+  },
+  {
+    "name": "CRUNHYROLL",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stitch/hls/channel/65652f7fc0fc88000883537a/master.m3u8"
+  },
+  {
+    "name": "ABC AUSTRALIA",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8"
+  },
+  {
+    "name": "AL JAZEERA",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/AJE/index.m3u8"
+  },
+  {
+    "name": "AMERICA FUNNIEST VIDEO",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/1200.m3u8"
+  },
+  {
+    "name": "ARIRANG HD",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8"
+  },
+  {
+    "name": "BILLIARD TV",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-BilliardTV/c4e6753c-6014-4551-bef0-f212872de6a4/4.m3u8"
+  },
+  {
+    "name": "BOXING TV",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/HLS/BOXINGTV_v4.m3u8"
+  },
+  {
+    "name": "BeIN SPORTS USA",
+    "logo": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-6.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/zeko/premium425/mono.m3u8"
+  },
+  {
+    "name": "CGTN",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/master480p.m3u8"
+  },
+  {
+    "name": "CNA",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8"
+  },
+  {
+    "name": "CI USA",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "Other",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/57256.m3u8"
+  },
+  {
+    "name": "DISCOVERY ASIA",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8"
+  },
+  {
+    "name": "DISCOVERY CHANNEL",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia-avc1_2499968=15.m3u8"
+  },
+  {
+    "name": "FAIL ARMY",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stitch/hls/channel/554158e864526b29254ff105/master.m3u8"
+  },
+  {
+    "name": "FIGHT NETWORK",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/plex-5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877.m3u8"
+  },
+  {
+    "name": "FIGHT TV",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8"
+  },
+  {
+    "name": "FILAM TV",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/vegas/ftv/playlist.m3u8"
+  },
+  {
+    "name": "Fox Sports 1",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/FoxSports1/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Fox Sports 1 (SD)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/FoxSports1/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "Fox Sports 2",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/FoxSports2/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Fox Sports 2 (SD)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/FoxSports2/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "FOX USA",
+    "logo": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-usa.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/zeko/premium54/mono.m3u8"
+  },
+  {
+    "name": "American Pickers",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/playlist.m3u8"
+  },
+  {
+    "name": "America's Got Talent",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/index.m3u8"
+  },
+  {
+    "name": "America's Got Talent",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/index.m3u8"
+  },
+  {
+    "name": "ABC (WABC)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/ABC_EAST/index.m3u8"
+  },
+  {
+    "name": "Aspire",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/aspire-tv-us.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/Aspire/index.m3u8"
+  },
+  {
+    "name": "BET Jams",
+    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-jams-us.png?raw=true",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/BET_Jams/index.m3u8"
+  },
+  {
+    "name": "Cooking Channel USA",
+    "logo": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cooking-channel.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/dokko1/premium697/mono.m3u8"
+  },
+  {
+    "name": "COMEDY CENTRAL",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/Comedy_Central/index.m3u8"
+  },
+  {
+    "name": "ESPN",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/ESPN/index.m3u8"
+  },
+  {
+    "name": "Pursuit Channel",
+    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pursuit-us.png?raw=true",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/Pursuit_Channel/index.m3u8"
+  },
+  {
+    "name": "National Geographic US - Eastern (SD)",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/NationalGeographicEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "National Geographic Wild",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Sky Sports F1 UK",
+    "logo": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-f1-uk.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/wind/premium60/mono.m3u8"
+  },
+  {
+    "name": "National Geographic Wild (SD)",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/NationalGeographicWildEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "TNT - Eastern Feed",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/TNTEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "TNT - Eastern Feed (SD)",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/TNTEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "Animal Planet US - East",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/AnimalPlanetEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Animal Planet US - East (SD)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/AnimalPlanetEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "UFC Network",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/611366/682256/22177"
+  },
+  {
+    "name": "WWE Network",
+    "logo": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/wwe-network.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/611366/682256/22185"
+  },
+  {
+    "name": "TNT Sports 1 UK",
+    "logo": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-1-uk.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/nfs/premium31/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz"
+  },
+  {
+    "name": "TNT Sports 2 UK",
+    "logo": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-2-uk.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/nfs/premium32/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz"
+  },
+  {
+    "name": "TNT Sports 3 UK",
+    "logo": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-3-uk.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/nfs/premium33/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz"
+  },
+  {
+    "name": "TNT Sports 4 UK",
+    "logo": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-4-uk.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/nfs/premium34/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz"
+  },
+  {
+    "name": "TNT USA",
+    "logo": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-usa.png",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/zeko/premium338/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz"
+  },
+  {
+    "name": "Travel Channel US - East",
+    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/TravelChannelEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Travel Channel US - East (SD)",
+    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true",
+    "group": "NEWS/ENTERTAINMEN/DOCUMENTARY",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/TravelChannelEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "DREAMWORKS TAGALIZED",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/restream/alltv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
+  },
+  {
+    "name": "ANIME ALL DAY",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8"
+  },
+  {
+    "name": "ANIME ALL DAY",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8"
+  },
+  {
+    "name": "ANIME * HIDAVE",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/192.m3u8"
+  },
+  {
+    "name": "BABY SHARK TV",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/3000.m3u8"
+  },
+  {
+    "name": "BARBIE AND FRIENDS",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jh1ol665g3amg/09a20cb2-e0e7-4e17-afdb-aa6b35ce6da0/3.m3u8"
+  },
+  {
+    "name": "BOOMERANG TV",
+    "logo": "https://i.imgur.com/HvKsHvx.png group-title=",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/BOOMERANG/index.m3u8"
+  },
+  {
+    "name": "CARTOONITO",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/live/disk1/Boomerang/HLS-FTA/Boomerang-avc1_3000000=8.m3u8"
+  },
+  {
+    "name": "CRUNHYROLL",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stitch/hls/channel/65652f7fc0fc88000883537a/master.m3u8"
+  },
+  {
+    "name": "Boomerang",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/Boomerang/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Boomerang (SD)",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/Boomerang/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "Nickelodeon",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/NICKELODEON/index.m3u8"
+  },
+  {
+    "name": "NickToons",
+    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/NICKTOONS/index.m3u8"
+  },
+  {
+    "name": "CARTOON NETWORK USA - Eastern Feed",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "CARTOON NETWORK USA - Eastern Feed (SD)",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/CartoonNetworkEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "DISNEY CHANNEL - Eastern Feed",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "DISNEY CHANNEL - Eastern Feed (SD)",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/DisneyChannelEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "Disney JR USA - East",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/disney-junior-us.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/DisneyJuniorEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Disney JR USA - East (SD)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/disney-junior-us.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/DisneyJuniorEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "Disney XD USA - Eastern Feed",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/DisneyXDEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Disney XD USA - Eastern Feed (SD)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/DisneyXDEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "NICK JR. - East",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/NickJrEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "NICK JR. - East (SD)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/NickJrEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "Nickelodeon USA - East Feed",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/NickelodeonEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Nickelodeon USA - East Feed (SD)",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/NickelodeonEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "Nicktoons - East",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/NicktoonsEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Nicktoons - East (SD)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/NicktoonsEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "TeenNick - Eastern",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/teen-nick-us.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/TeenNickEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "TeenNick - Eastern (SD)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/teen-nick-us.png",
+    "group": "ANIME/CARTOONS\ud83d\udc7d",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/TeenNickEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "CINEMAX - Eastern Feed",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png",
+    "group": "MOVIE CHANNELS\ud83d\udcfa",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/CinemaxEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "CINEMAX - Eastern Feed (SD)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png",
+    "group": "MOVIE CHANNELS\ud83d\udcfa",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/CinemaxEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "CURIOSITY STREAM",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "MOVIE CHANNELS\ud83d\udcfa",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/Curiosity_Stream/index.m3u8"
+  },
+  {
+    "name": "HOLLYWOOD MOVIES",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "MOVIE CHANNELS\ud83d\udcfa",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8"
+  },
+  {
+    "name": "Baywatch",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "MOVIE CHANNELS\ud83d\udcfa",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/playlist.m3u8"
+  },
+  {
+    "name": "MovieSphere",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "MOVIE CHANNELS\ud83d\udcfa",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/playlist.m3u8"
+  },
+  {
+    "name": "AMC",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",
+    "group": "MOVIE CHANNELS\ud83d\udcfa",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/AMC_NETWORK/index.m3u8"
+  },
+  {
+    "name": "American Heroes Channel",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png",
+    "group": "MOVIE CHANNELS\ud83d\udcfa",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/American_Heroes_Channel/index.m3u8"
+  },
+  {
+    "name": "Sony Movie Channel",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "MOVIE CHANNELS\ud83d\udcfa",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/Sony_Movie_Channel/index.m3u8"
+  },
+  {
+    "name": "Start TV",
+    "logo": "https://i.imgur.com/HvKsHvx.png",
+    "group": "MOVIE CHANNELS\ud83d\udcfa",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/Start_Tv/index.m3u8"
+  },
+  {
+    "name": "FX Movie Channel",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png",
+    "group": "MOVIE CHANNELS\ud83d\udcfa",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/FXMovieChannel/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "FX Movie Channel (SD)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png",
+    "group": "MOVIE CHANNELS\ud83d\udcfa",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/FXMovieChannel/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "HBO - Eastern Feed",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png",
+    "group": "MOVIE CHANNELS\ud83d\udcfa",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/HBOEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "HBO - Eastern Feed (SD)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png",
+    "group": "MOVIE CHANNELS\ud83d\udcfa",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/HBOEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "HBO 2 - Eastern Feed",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",
+    "group": "MOVIE CHANNELS\ud83d\udcfa",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/HBO2East/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "HBO 2 - Eastern Feed (SD)",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",
+    "group": "MOVIE CHANNELS\ud83d\udcfa",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/HBO2East/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "HBO Comedy HD - East",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",
+    "group": "MOVIE CHANNELS\ud83d\udcfa",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/HBOComedyEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "HBO Comedy HD - East (SD)",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",
+    "group": "MOVIE CHANNELS\ud83d\udcfa",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/HBOComedyEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "HBO Family - Eastern Feed",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png",
+    "group": "MOVIE CHANNELS\ud83d\udcfa",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/HBOFamilyEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "HBO Family - Eastern Feed (SD)",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png",
+    "group": "MOVIE CHANNELS\ud83d\udcfa",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/HBOFamilyEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "HBO Signature (HBO 3) - Eastern",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png",
+    "group": "MOVIE CHANNELS\ud83d\udcfa",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/HBOSignatureEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "HBO Signature (HBO 3) - Eastern (SD)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png",
+    "group": "MOVIE CHANNELS\ud83d\udcfa",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/HBOSignatureEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "HBO Zone HD - East",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png",
+    "group": "MOVIE CHANNELS\ud83d\udcfa",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/HBOZoneEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "HBO Zone HD - East (SD)",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png",
+    "group": "MOVIE CHANNELS\ud83d\udcfa",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/HBOZoneEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "CINEMAX - Eastern Feed",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png",
+    "group": "MOVIE CHANNELS\ud83d\udcfa",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/CinemaxEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "CINEMAX - Eastern Feed (SD)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png",
+    "group": "MOVIE CHANNELS\ud83d\udcfa",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/CinemaxEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "MovieMax (Max 6) - East",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-moviemax-us.png",
+    "group": "MOVIE CHANNELS\ud83d\udcfa",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/MovieMaxEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "MovieMax (Max 6) - East (SD)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-moviemax-us.png",
+    "group": "MOVIE CHANNELS\ud83d\udcfa",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/MovieMaxEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "Paramount Network",
+    "logo": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/paramount-network.png",
+    "group": "MOVIE CHANNELS\ud83d\udcfa",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/nfs/premium334/mono.m3u8"
+  },
+  {
+    "name": "Starz - Eastern",
+    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",
+    "group": "MOVIE CHANNELS\ud83d\udcfa",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/StarzEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Starz - Eastern (SD)",
+    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",
+    "group": "MOVIE CHANNELS\ud83d\udcfa",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/hls/StarzEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "DZBR Bible Radio 531",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/se9de95c10/listen"
+  },
+  {
+    "name": "Radio Maria Philippines",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream.mp3"
+  },
+  {
+    "name": "RainbowFM",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream?1587801467850"
+  },
+  {
+    "name": "Dxki Strong Radio 90.3",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "109.1 IDOL FM",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/radio/8090/radio.mp3"
+  },
+  {
+    "name": "DZRH News AM",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/JamendoLounge"
+  },
+  {
+    "name": "97.5 Love Radio Iloilo",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/loveradio-1000"
+  },
+  {
+    "name": "101.1 Smash FM",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "Memories FM 89.9",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "FReSH FM PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/radio/8170/radio.mp3"
+  },
+  {
+    "name": "PHR 80.9 FM",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream.nsv"
+  },
+  {
+    "name": "Music Tambayan",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/radio/8000/radio.mp3"
+  },
+  {
+    "name": "CyberPinoy Radio",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "COOL FM 90.1",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "Love FM 98.9",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "Boracay FM",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/boracayfm?ref=web-app&ampt302=2019-04-09_12-22-23&ampuuid=f6d43b18-d040-49a3-b7af-4ca2f177541a"
+  },
+  {
+    "name": "Supreme FM 98.1",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "997 My Friends FM",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/live"
+  },
+  {
+    "name": "Mapua Radio Cardinal",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/channel/nhtli"
+  },
+  {
+    "name": "Atlantis",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "CoolFm Hits 901",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/index.html?sid=1"
+  },
+  {
+    "name": "104.9 Rja Foundation FM",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/radio/8100/radio.mp3"
+  },
+  {
+    "name": "Favradio",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "Pinoy Rap Radio",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/8004/stream/stream/1"
+  },
+  {
+    "name": "Coolfm Rock",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/zc10"
+  },
+  {
+    "name": "Slowly Radio",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/radio/421816/stream/476452"
+  },
+  {
+    "name": "Bespren Radio",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/live"
+  },
+  {
+    "name": "Breezylyn FM",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/BreezeFM"
+  },
+  {
+    "name": "V Hive Radio",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/vhiveradiostream"
+  },
+  {
+    "name": "Party Rock FM",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/radio21-partyrock-mp3-256-7707367"
+  },
+  {
+    "name": "23.12 Dimension FM Radio",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/radio/8030/radio.mp3"
+  },
+  {
+    "name": "Troy FM",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/troy1"
+  },
+  {
+    "name": "Green Giant FM",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream?1604661148956"
+  },
+  {
+    "name": "Manila Bay Beach Radio",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/sd319ba2a4/listen"
+  },
+  {
+    "name": "97.9 Caerenslovers FM",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/radio/8010/radio.mp3?1639372973514"
+  },
+  {
+    "name": "Sunshine FM Radio",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/4SFM_SC"
+  },
+  {
+    "name": "Rock109",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "Radio Tamaraw Online",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "Love Radio Roxas",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "Love Radio Naga",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "Love Radio Palawan",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "Love Radio Malaybalay",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "Love Radio Tacloban",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "Love Radio Zamboanga",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "Love Radio Lucena",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "Love Radio Baguio",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "Love Radio Bacolod",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "Love Radio Daet",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "Love Radio Tuguegarao",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "Love Radio Santiago",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "Love Radio Catarman",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "Love Radio Butuan",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "Love Radio Dagupan",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "COOL FM 901",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "VHive",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/www.vhiveradio.com/"
+  },
+  {
+    "name": "Exclusively The Everly Brothers Listen live",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/er/everlybrothers/icecast.audio"
+  },
+  {
+    "name": "Disco House \u0420\u0430\u0434\u0438\u043e - RadioSpinner Listen live",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/disco-house-64"
+  },
+  {
+    "name": "91.9 GUIMARAS KISS FM",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/listen/91.9_guimaras_kiss_fm/radio.mp3"
+  },
+  {
+    "name": "AIR FM",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/listen/air_fm/radio.mp3"
+  },
+  {
+    "name": "90.7 Love Radio Manila",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/boracayfm"
+  },
+  {
+    "name": "El Shaddai radio",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/static/audios/sample.ea78c3d52389.mp3"
+  },
+  {
+    "name": "Radyo Lipenio - RLNewsFM",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/3ninviiwep8uv.m3u"
+  },
+  {
+    "name": "TeenRadio Global",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/play/rakista-manila/"
+  },
+  {
+    "name": "Love Radio Baguio DWMB",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "96.3 Easy Rock - DWRK",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/s778110174/listen"
+  },
+  {
+    "name": "Wish FM 107.5 - DWNU",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/untv/f55dcf9ae0f542d6a7614893d0c2dd83/manifest.m3u8"
+  },
+  {
+    "name": "RMN Iloilo - DYRI",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/live"
+  },
+  {
+    "name": "Yes! The Best Cebu - DYHR",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "RMN Cebu - DYHP",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/"
+  },
+  {
+    "name": "104.7 Yes The Best - DXYR",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "LTM Radio Philippines",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "Crossover",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/s1317e9f68/listen"
+  },
+  {
+    "name": "True Life In God Radio Filipino",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/listen/filipino/radio.mp3"
+  },
+  {
+    "name": "MystFM925",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "Destiny9911-fm",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "Radyo Bandera Iloilo - DYKU",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/live"
+  },
+  {
+    "name": "89.5 Brigada News FM - DXYM",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "96.9 Easy Rock Cagayan de Oro - DXKS",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/"
+  },
+  {
+    "name": "RPN-DXKS Surigao - DXKS",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "99.1 Love Radio Naga - DWYN",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/"
+  },
+  {
+    "name": "Yes The Best Dagupan - DWHR",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/"
+  },
+  {
+    "name": "99.3 Yes The Best - DXFE-FM",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/"
+  },
+  {
+    "name": "Hugot Radio 2.0",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/"
+  },
+  {
+    "name": "Yes The Best Urdaneta - DZVM",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "The Ranch FM - DYME-FM",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "Anime Alliance Online Radio",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "Cathedral of Praise Bible Radio - DZBR",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/se9de95c10/listen"
+  },
+  {
+    "name": "14.3 Global Online Radio",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "91.9 Radyo Natin - DWSG",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/dwsg"
+  },
+  {
+    "name": "105.1 Easy Rock Davao - DXYS",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "7 SCAF FM",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/radio.mp3"
+  },
+  {
+    "name": "102.7 Yes The Best - DXHT",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "XFM 96.7 Bacolod",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/live"
+  },
+  {
+    "name": "Love Radio 95.1 - DXMB",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/"
+  },
+  {
+    "name": "Yes! The Best Dumaguete - DYYD",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "POP Radio",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "95.3 Love Radio - DWKS",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/"
+  },
+  {
+    "name": "FMR Tagum",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/live"
+  },
+  {
+    "name": "Yes! The Best Valencia - DXAT",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "102.7 YES FM Zamboanga",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "Boracay FM laut.fm",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/boracayfm?ref=vtuner"
+  },
+  {
+    "name": "CoolFm Hits",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "Crossover Radio Online",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/s1317e9f68/listen"
+  },
+  {
+    "name": "DWMB 95.1 FM Love Radio Baguio",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "LivingWord.PH iRadio",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "Love Radio Cebu",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "Love Radio Legaspi",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "Love Radio Tarlac",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "Love Radyo Laoag",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "Radio Maria Philippines 102.1 FM",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "Yes FM - Boracay",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "101.5 Love Radio \u2013 DXWK",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/"
+  },
+  {
+    "name": "105.7 Love Radio Roxas \u2013 DYML",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "97.7 Love Radio Tarlac \u2013 DZLT",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "Love Radio Baguio \u2013 DWMB",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/"
+  },
+  {
+    "name": "Yes! The Best Boracay \u2013 DYYR",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/"
+  },
+  {
+    "name": "Yes! The Best Cagayan De Oro \u2013 DXYR",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/"
+  },
+  {
+    "name": "Yes! The Best Dumaguete \u2013 DYYD",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/"
+  },
+  {
+    "name": "Kirubai FM - Tamil",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "Chernestardreamer Online Radio",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/radio/8000/radio.mp3"
+  },
+  {
+    "name": "Coolfm90.1",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/s1317e9f68/listen?type=.mp3"
+  },
+  {
+    "name": "DXKI Strong Radio 90.3",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream.nsv"
+  },
+  {
+    "name": "DYRI",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/live"
+  },
+  {
+    "name": "Energy",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "Loud Radio",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "Love Radio Tacloban DYTM 91.1",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "Radyo Magkaisa 98.1 FM",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "Sabik FM",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "Uragon Hot Radio 99.8",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/uragon98"
+  },
+  {
+    "name": "V-Hive",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/www.vhiveradio.com"
+  },
+  {
+    "name": "OK-FM 97.5 DZOK-FM",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "Easy RocK",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "Immortalfm",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "Yes The Best 91.5",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream.mp3"
+  },
+  {
+    "name": "Buangons",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "Spirit FM 103.9",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/1/"
+  },
+  {
+    "name": "ICPRM Network Group Station \u2013 Laoag \u2013 Ilocos \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/4prwagzv9s5tv.pls"
+  },
+  {
+    "name": "Pinoy Global Stream \u2013 Manila \u2013 National Capital Region \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/qunkzrt2qvduv.pls"
+  },
+  {
+    "name": "105.8 Loving Arms FM \u2013 105.8 FM \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/listen/sonata_fm/radio.mp3"
+  },
+  {
+    "name": "104.7 Scaf FM \u2013 Manila \u2013 National Capital Region \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/radio/8000/radio.mp3"
+  },
+  {
+    "name": "Laoag City Radio (LCR-FM) \u2013 Manila \u2013 National Capital Region \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/8w7hpc4gh1duv.m3u"
+  },
+  {
+    "name": "Crossover Radio Online \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/s1317e9f68/low?type=.aac"
+  },
+  {
+    "name": "WILD HEART FM 97.1 \u2013 Manila \u2013 National Capital Region \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/wildheart"
+  },
+  {
+    "name": "88.9 OFW Cool Radio \u2013 88.9 FM \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/8066/stream"
+  },
+  {
+    "name": "Elite Reborn FM \u2013 Manila \u2013 National Capital Region \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/radio.mp3"
+  },
+  {
+    "name": "10.27 WOL FM \u2013 Cebu City \u2013 Central Visayas \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/8020/stream"
+  },
+  {
+    "name": "Hot FM 96.3 \u2013 96.3 FM \u2013 Zamboanga City \u2013 Zamboanga Peninsula \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/8052/stream"
+  },
+  {
+    "name": "zRadio \u2013 San Carlos \u2013 Central Luzon \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/live"
+  },
+  {
+    "name": "ICPRM Radio Metro Manila \u2013 Dagupan \u2013 Cagayan Valley \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/89fuftdzyy5tv.pls"
+  },
+  {
+    "name": "Pinoy DJ Radio \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "Soundwave 88.8 \u2013 88.8 FM \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/radio/8020/stream"
+  },
+  {
+    "name": "DYHB RMN Bacolod \u2013 Bacolod City \u2013 Western Visayas \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "SVA Radio \u2013 Manila \u2013 National Capital Region \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/4uvhk732g9duv.pls"
+  },
+  {
+    "name": "Big Sound FM \u2013 La Union \u2013 Davao \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/tunein/dwaa-stream.pls"
+  },
+  {
+    "name": "92.3 Easy Rock Iloilo \u2013 92.3 FM \u2013 Iloilo City \u2013 Western Visayas \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "Lovesick versus Dollars FM \u2013 Manila \u2013 National Capital Region \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "Angels FM \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "CRI Millennial Gospel Radio \u2013 Manila \u2013 National Capital Region \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/q1uwefuf4ceuv.pls"
+  },
+  {
+    "name": "Spirit FM 101.7 \u2013 101.7 FM \u2013 Baler \u2013 Central Luzon \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "Guimaras Worldwide Radio FM \u2013 102.7 FM \u2013 Iloilo City \u2013 Western Visayas \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/listen/guimarasworldwidefm/radio.mp3"
+  },
+  {
+    "name": "105.1 Easy Rock Davao \u2013 105.1 FM \u2013 Davao City \u2013 Davao \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "PHR 80.9 FM \u2013 80.9 FM \u2013 Batangas \u2013 Calabarzon \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "TPPFM \u2013 Legazpi \u2013 Bicol \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/live"
+  },
+  {
+    "name": "RainbowFM \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "Map\u00faa Radio Cardinal \u2013 Manila \u2013 National Capital Region \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/channel/nhtli"
+  },
+  {
+    "name": "POP Radio \u2013 Manila \u2013 National Capital Region \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "KissPinas 102.7 FM \u2013 102.7 FM \u2013 Mandaluyong City \u2013 National Capital Region \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/gdh4m7vsebruv.m3u"
+  },
+  {
+    "name": "Wows Radio Station 91.5 \u2013 91.5 FM \u2013 Manila \u2013 National Capital Region \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/8022/stream"
+  },
+  {
+    "name": "YES! The Best Cebu 91.5 \u2013 91.5 FM \u2013 Cebu City \u2013 Central Visayas \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "Radyo Katipunan \u2013 Quezon City \u2013 National Capital Region \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/radyokatipunan.m3u"
+  },
+  {
+    "name": "101.7 OFW Tambayan FM \u2013 101.7 FM \u2013 Manila \u2013 National Capital Region \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/listen/101.7ofwtambayanfm/radio.mp3"
+  },
+  {
+    "name": "Supreme Radio 99.7 FM \u2013 99.7 FM \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/8046/stream"
+  },
+  {
+    "name": "YES! The Best Iligan 99.3 \u2013 99.3 FM \u2013 Iligan City \u2013 Soccsksargen \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "15.5 T.L.C.S.P PINOY FM \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/8014/stream"
+  },
+  {
+    "name": "201.9 Adzaa Online Radio FM \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/8016/stream"
+  },
+  {
+    "name": "TSSA FM Radio \u2013 Singapore \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/tssa"
+  },
+  {
+    "name": "DZMM Radio Patrol 630 \u2013 630 AM \u2013 Quezon City \u2013 National Capital Region \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/vcv559su7mruv.m3u"
+  },
+  {
+    "name": "Radyo Natin Brooke\u2019s Point \u2013 Puerto Princesa City \u2013 Mimaropa \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/listen/brookespoint/radio"
+  },
+  {
+    "name": "Einnz Online Radio \u2013 Manila \u2013 National Capital Region \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/listen/einnz/radio.mp3"
+  },
+  {
+    "name": "JAMZ RADIO Philippines \u2013 Mandaluyong City \u2013 National Capital Region \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/yu7rwcq3wy5tv.pls"
+  },
+  {
+    "name": "CHRK-DB Manila (HD) \u2013 Manila \u2013 National Capital Region \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "Valor FM \u2013 Manila \u2013 National Capital Region \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/radio.mp3"
+  },
+  {
+    "name": "SPIRITLOVEFM \u2013 Manila \u2013 National Capital Region \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/radio/8030/stream"
+  },
+  {
+    "name": "RMN Radyo lloilo \u2013 Iloilo City \u2013 Western Visayas \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/mp3"
+  },
+  {
+    "name": "99.9 Star Light FM \u2013 99.9 FM \u2013 Antipolo \u2013 Western Visayas \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/radio/8010/stream"
+  },
+  {
+    "name": "Islamic Radio Filipino / Tagalog \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/?icy=http"
+  },
+  {
+    "name": "CyberPinoy Radio \u2013 Pinugay \u2013 Calabarzon \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "ONE FM \u2013 Manila \u2013 National Capital Region \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/radio.mp3"
+  },
+  {
+    "name": "104.2 MIX LOVER\u2019S FM \u2013 104.2 FM \u2013 Manila \u2013 National Capital Region \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/8036/stream"
+  },
+  {
+    "name": "98.3 Love Radio Dagupan \u2013 98.3 FM \u2013 Dagupan \u2013 Cagayan Valley \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "Bespren Radio \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/live"
+  },
+  {
+    "name": "Vine Radio 88.9 \u2013 88.9 FM \u2013 Manila \u2013 National Capital Region \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "Achieve FM \u2013 Manila \u2013 National Capital Region \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/radio.mp3"
+  },
+  {
+    "name": "YES! The Best Dagupan 106.3 \u2013 106.3 FM \u2013 Dagupan \u2013 Cagayan Valley \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "AFK Radio Rocks \u2013 Cebu City \u2013 Central Visayas \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/radio.mp3"
+  },
+  {
+    "name": "102.7 Love Radio Fm \u2013 102.7 FM \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/8068/stream"
+  },
+  {
+    "name": "97.1 Solid Love FM \u2013 Manila \u2013 National Capital Region \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/radio/8120/radio.mp3"
+  },
+  {
+    "name": "106.7 Radyo Natin Agoo \u2013 106.7 FM \u2013 Agoo \u2013 Ilocos \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/listen/dwis/agoo"
+  },
+  {
+    "name": "Mellow 94.7 FM \u2013 94.7 FM \u2013 Mandaluyong City \u2013 National Capital Region \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream/18342/?type=http&nocache=40"
+  },
+  {
+    "name": "PRIMAP 108 FM \u2013 108 FM \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/radio/primap-108-fm/"
+  },
+  {
+    "name": "93.5 Easy Rock Boracay \u2013 93.5 FM \u2013 Kalibo Town \u2013 Western Visayas \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "Yes FM Dagupan 106.3 \u2013 106.3 FM \u2013 Dagupan \u2013 Cagayan Valley \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "JAKXFM Radio \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream?time=1519230990208"
+  },
+  {
+    "name": "Pinoy Radio \u2013 Filipino Radio \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/tunein/-stream/mcbnprc.pls"
+  },
+  {
+    "name": "88.7 Love Music Radio \u2013 88.7 FM \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/radio.mp3"
+  },
+  {
+    "name": "YES! The Best Valencia 104.1 \u2013 104.1 FM \u2013 Valencia \u2013 Northern Mindanao \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "Radio NE FM 100.3 \u2013 100.3 FM \u2013 Cabanatuan City \u2013 Central Luzon \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/k2uz08e71ueuv.pls"
+  },
+  {
+    "name": "Beat FM 102.9 \u2013 102.9 FM \u2013 Zamboanga City \u2013 Zamboanga Peninsula \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/8058/stream"
+  },
+  {
+    "name": "MSFM 105.3 \u2013 105.3 FM \u2013 Catbalogan \u2013 Eastern Visayas \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "KLASSfm \u2013 Iloilo City \u2013 Western Visayas \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "DYRN \u2013 Radio Natin 90.9 Laoang \u2013 90.9 FM \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/listen/dyrn/laoang"
+  },
+  {
+    "name": "Brigada News FM Gensan \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "101.7 Love Radio La Union \u2013 101.7 FM \u2013 La Union \u2013 Davao \u2013 PH",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "Mixx Radio Fm",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "Rpm Net Radio",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/522ea9678af62/"
+  },
+  {
+    "name": "Radical Edge",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/"
+  },
+  {
+    "name": "Dance Radio Philippines",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/autodj"
+  },
+  {
+    "name": "Barangay RT radio",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/radio/streaming/dwls"
+  },
+  {
+    "name": "Seduction Dance Tunes Radio",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/8057/stream"
+  },
+  {
+    "name": "98.4 Love Fm radio",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/listen/98.4_love_fm/radio.mp3"
+  },
+  {
+    "name": "Jmj Pasaway Fm Radio",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/listen/jmj_pasaway_/radio.mp3"
+  },
+  {
+    "name": "Manila radio",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/8109/stream.mp3"
+  },
+  {
+    "name": "91.5 Wows Radio Station",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream.nsv"
+  },
+  {
+    "name": "OperaHouseFM101 radio",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/8052/stream"
+  },
+  {
+    "name": "101.7 Your Love FM radio",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/listen/sanibpwersa/radio.mp3"
+  },
+  {
+    "name": "02.6 FM BISDAK LAMION TAMBAYAN radio",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/8044/stream"
+  },
+  {
+    "name": "ZNS Pinoy Online Radio",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "guimaraskissfm radio",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/radio/8010/radio.mp3"
+  },
+  {
+    "name": "Quezon City radio",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/8126/stream"
+  },
+  {
+    "name": "Cool radio",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/stream"
+  },
+  {
+    "name": "Like FM 105.9 radio",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/events/2890639"
+  },
+  {
+    "name": "RVFM radio",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/radio.mp3"
+  },
+  {
+    "name": "Radyo Natin - Pinamalayan radio",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/listen/dwmk/pinamalayan"
+  },
+  {
+    "name": "97.9 Caerens Lovers Fm",
+    "logo": "",
+    "group": "RADIO CHANELS\ud83c\uddf5\ud83c\udded",
+    "url": "https://iptv-proxy-dutk.onrender.com/proxy/radio/8010/radio.mp3"
+  }
+]
