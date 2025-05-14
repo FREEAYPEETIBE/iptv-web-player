@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>IPTV Web Player</title>
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  <script src="https://cdn.dashjs.org/latest/dash.all.min.js"></script>
+  <script defer src="app.js"></script>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-900 text-white font-sans">
+  <div class="sticky top-0 z-50 bg-black">
+    <video id="video" class="w-full h-auto max-h-[50vh] bg-black" controls autoplay muted></video>
+  </div>
+
+  <div class="p-4">
+    <input id="search" type="text" placeholder="Search channels..." class="w-full md:w-1/2 p-2 mb-4 rounded bg-gray-800 text-white placeholder-gray-400 border border-gray-600" />
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-4" id="channel-list">
+      <!-- Channels will load here -->
+    </div>
+  </div>
+</body>
+</html>
