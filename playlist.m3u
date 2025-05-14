@@ -1,0 +1,258 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/a/TGsXrZy.png" group-title="NBA🏀",NBA LIVE
+https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/11.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/TGsXrZy.png" group-title="NBA🏀",NBA LIVE
+https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/11.m3u82f8a60f
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="NBA🏀" tvg-id="NBA.TV.USA.us",NBA TV USA
+https://v17.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="NBA🏀" tvg-id="NBA.TV.USA.us",NBA TV USA (SD)
+
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",4K TRAVEL
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",A2Z/ABS CBN
+https://cdn.ganbaruby23.xyz/stream/restream/alltv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",ALL TV
+https://cdn.ganbaruby23.xyz/stream/restream/alltv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",BUKO CHANNEL
+https://cdn.ganbaruby23.xyz/stream/restream/alltv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",CELESTIAL MOVIE
+https://cdn.ganbaruby23.xyz/stream/restream/alltv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",CINEMO
+https://cdn.ganbaruby23.xyz/stream/restream/cinemoph/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",DZBB SUPER RADYO
+https://dzbb.iyadix.workers.dev/ioslive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",GMA
+https://cdn.ganbaruby23.xyz/stream/restream/gma/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",GTV
+https://cdn.ganbaruby23.xyz/stream/restream/gma/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",IBC
+https://cdn.ganbaruby23.xyz/stream/restream/gma/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",JEEPNEY TV
+https://cdn.ganbaruby23.xyz/stream/restream/jeepneytv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",KAPAMILYA CHANNEL
+https://cdn.ganbaruby23.xyz/stream/restream/kapamilyachannel/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
+#EXTINF:-1 tvg-id="" tvg-logo="https://short-link.me/11PE7" group-title="PH CHANNELS🇵🇭", One News HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d39eb201ae494a0b98583df4d110e8dd:6797066880d344422abd3f5eda41f45f
+https://ott.udptv.net/stream/iptv/gmanewstv/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+#EXTINF:-1 tvg-id=".ph" tvg-logo="https://short-link.me/11PE7" group-title="PH CHANNELS🇵🇭",TV5
+http://ott.udptv.net/stream/iptv/tv5hd/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",Thrillers
+
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",DREAMWORKS TAGALIZED
+https://cdn.ganbaruby23.xyz/stream/restream/alltv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",ANIME ALL DAY
+https://pluto.xyadx.workers.dev/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8
+#EXTINF:-1 tvg-logo="
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",ANIME ALL DAY
+https://pluto.xyadx.workers.dev/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",ANIME * HIDAVE
+https://amc-anime-x-hidive-1-us.tablo.wurl.tv/192.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",BABY SHARK TV
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",BARBIE AND FRIENDS
+https://d1xqdnwy1bo05f.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jh1ol665g3amg/09a20cb2-e0e7-4e17-afdb-aa6b35ce6da0/3.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",BOOMERANG TV
+https://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",CARTOONITO
+https://cdn4.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang-avc1_3000000=8.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",CRUNHYROLL
+
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",ABC AUSTRALIA
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",AL JAZEERA
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",AMERICAN PICKERS
+https://apollo.production-public.tubi.io/live/ac-american-pickers.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",AMERICA FUNNIEST VIDEO
+https://futuretoday-afv-family-2-be.samsung.wurl.tv/1200.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",ARIRANG HD
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",BILLIARD TV
+https://1b29dd71cd5e4191a3eb26afff631ed3.mediatailor.us-west-2.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-BilliardTV/c4e6753c-6014-4551-bef0-f212872de6a4/4.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",BOXING TV
+https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_v4.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",CGTN
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title=NEWS/ENTERTAINMEN/DOCUMENTARY",CI USA
+https://tv.iyadix.workers.dev/57256.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",DISCOVERY ASIA
+https://cdn3.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",DISCOVERY CHANNEL
+https://cdn3.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia-avc1_2499968=15.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",FAIL ARMY
+https://pluto.xyadx.workers.dev/stitch/hls/channel/554158e864526b29254ff105/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",FIGHT NETWORK
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",FIGHT TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",FILAM TV
+https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",American Pickers
+https://d2fmvezvf9jfft.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",America's Got Talent
+https://dhkq1p9audihq.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",America's Got Talent
+https://dhkq1p9audihq.cloudfront.net/index.m3u8
+#EXTINF:-1 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABC (WABC)",ABC (WABC)
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="ASPiRE.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/aspire-tv-us.png" tvg-name="Aspire",Aspire
+http://fl3.moveonjoy.com/Aspire/index.m3u8
+#EXTINF:-1 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="BET.Jams.(BETJ).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-jams-us.png?raw=true" tvg-name="BET Jams",BET Jams
+http://fl3.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:-1 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" tvg-name="COMEDY CENTRAL",COMEDY CENTRAL
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="ESPN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" tvg-name="ESPN",ESPN
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="Pursuit.Channel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pursuit-us.png?raw=true" tvg-name="Pursuit Channel",Pursuit Channel
+http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="Cinemax.-.Eastern.Feed.us",CINEMAX - Eastern Feed
+https://v13.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="Cinemax.-.Eastern.Feed.us",CINEMAX - Eastern Feed (SD)
+https://v13.thetvapp.to/hls/CinemaxEast/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="National.Geographic.US.-.Eastern.us",National Geographic US - Eastern (SD)
+https://v15.thetvapp.to/hls/NationalGeographicEast/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="National.Geographic.Wild.us",National Geographic Wild
+https://v12.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="National.Geographic.Wild.us",National Geographic Wild (SD)
+https://v12.thetvapp.to/hls/NationalGeographicWildEast/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="TNT.-.Eastern.Feed.us",TNT - Eastern Feed
+https://v18.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="TNT.-.Eastern.Feed.us",TNT - Eastern Feed (SD)
+https://v18.thetvapp.to/hls/TNTEast/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="Animal.Planet.US.-.East.us",Animal Planet US - East
+https://v14.thetvapp.to/hls/AnimalPlanetEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="Animal.Planet.US.-.East.us",Animal Planet US - East (SD)
+https://v14.thetvapp.to/hls/AnimalPlanetEast/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/teen-nick-us.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="TeenNick.-.Eastern.us",TeenNick - Eastern
+https://v17.thetvapp.to/hls/TeenNickEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/teen-nick-us.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="TeenNick.-.Eastern.us",TeenNick - Eastern (SD)
+https://v17.thetvapp.to/hls/TeenNickEast/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/wwe-network.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",WWE Network
+https://windnew.newkso.ru/wind/premium376/mono.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-1-uk.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",TNT Sports 1 UK
+https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-2-uk.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",TNT Sports 2 UK
+https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-3-uk.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",TNT Sports 3 UK
+https://nfsnew.newkso.ru/nfs/premium33/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-4-uk.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",TNT Sports 4 UK
+https://nfsnew.newkso.ru/nfs/premium34/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+#EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-usa.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",TNT USA
+https://zekonew.newkso.ru/zeko/premium338/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",DREAMWORKS TAGALIZED
+https://cdn.ganbaruby23.xyz/stream/restream/alltv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",ANIME ALL DAY
+https://pluto.xyadx.workers.dev/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8
+#EXTINF:-1 tvg-logo="
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",ANIME ALL DAY
+https://pluto.xyadx.workers.dev/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",ANIME * HIDAVE
+https://amc-anime-x-hidive-1-us.tablo.wurl.tv/192.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",BABY SHARK TV
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",BARBIE AND FRIENDS
+https://d1xqdnwy1bo05f.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jh1ol665g3amg/09a20cb2-e0e7-4e17-afdb-aa6b35ce6da0/3.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",BOOMERANG TV
+https://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",CARTOONITO
+https://cdn4.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang-avc1_3000000=8.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",CRUNHYROLL
+https://pluto.xyadx.workers.dev/stitch/hls/channel/65652f7fc0fc88000883537a/master.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="ANIME/CARTOONS👽" tvg-id="Boomerang.us",Boomerang
+https://v12.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="ANIME/CARTOONS👽" tvg-id="Boomerang.us",Boomerang (SD)
+https://v12.thetvapp.to/hls/Boomerang/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="ANIME/CARTOONS👽" tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" tvg-name="Nickelodeon",Nickelodeon
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="ANIME/CARTOONS👽" tvg-id="Nicktoons.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" tvg-name="NickToons",NickToons
+http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="ANIME/CARTOONS👽" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us",CARTOON NETWORK USA - Eastern Feed
+https://v12.thetvapp.to/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="ANIME/CARTOONS👽" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us",CARTOON NETWORK USA - Eastern Feed (SD)
+https://v12.thetvapp.to/hls/CartoonNetworkEast/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="ANIME/CARTOONS👽" tvg-id="Disney.-.Eastern.Feed.us",DISNEY CHANNEL - Eastern Feed
+https://v3.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="ANIME/CARTOONS👽" tvg-id="Disney.-.Eastern.Feed.us",DISNEY CHANNEL - Eastern Feed (SD)
+https://v3.thetvapp.to/hls/DisneyChannelEast/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/disney-junior-us.png" group-title="ANIME/CARTOONS👽" tvg-id="Disney.Junior.USA.-.East.us",Disney JR USA - East
+https://v14.thetvapp.to/hls/DisneyJuniorEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/disney-junior-us.png" group-title="ANIME/CARTOONS👽" tvg-id="Disney.Junior.USA.-.East.us",Disney JR USA - East (SD)
+https://v14.thetvapp.to/hls/DisneyJuniorEast/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png" group-title="ANIME/CARTOONS👽" tvg-id="Disney.XD.USA.-.Eastern.Feed.us",Disney XD USA - Eastern Feed
+https://v15.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png" group-title="ANIME/CARTOONS👽" tvg-id="Disney.XD.USA.-.Eastern.Feed.us",Disney XD USA - Eastern Feed (SD)
+https://v15.thetvapp.to/hls/DisneyXDEast/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png" group-title="ANIME/CARTOONS👽" tvg-id="Nick.Jr..-.East.us",NICK JR. - East
+https://v1.thetvapp.to/hls/NickJrEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png" group-title="ANIME/CARTOONS👽" tvg-id="Nick.Jr..-.East.us",NICK JR. - East (SD)
+https://v1.thetvapp.to/hls/NickJrEast/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="ANIME/CARTOONS👽" tvg-id="Nickelodeon.USA.-.East.Feed.us",Nickelodeon USA - East Feed
+https://v17.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="ANIME/CARTOONS👽" tvg-id="Nickelodeon.USA.-.East.Feed.us",Nickelodeon USA - East Feed (SD)
+https://v17.thetvapp.to/hls/NickelodeonEast/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="ANIME/CARTOONS👽" tvg-id="Nicktoons.-.East.us",Nicktoons - East
+https://v15.thetvapp.to/hls/NicktoonsEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="ANIME/CARTOONS👽" tvg-id="Nicktoons.-.East.us",Nicktoons - East (SD)
+
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="MOVIE CHANNELS📺",CURIOSITY STREAM
+https://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="MOVIE CHANNELS📺",HOLLYWOOD MOVIES
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="MOVIE CHANNELS📺",Baywatch
+https://d1ku2wsea2oun8.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="MOVIE CHANNELS📺",MovieSphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE CHANNELS📺" tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" tvg-name="AMC",AMC
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="MOVIE CHANNELS📺" tvg-id="American.Heroes.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" tvg-name="American Heroes Channel",American Heroes Channel
+http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
+#EXTINF:-1 group-title="MOVIE CHANNELS📺" tvg-id="Sony.Movies.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movie-channel-hz-us.png?raw=true" tvg-name="Sony Movie Channel",Sony Movie Channel
+http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+#EXTINF:-1 group-title="MOVIE CHANNELS📺" tvg-id="Start.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/start-tv-us.png?raw=true" tvg-name="Start TV",Start TV
+http://fl3.moveonjoy.com/Start_Tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png" group-title="MOVIE CHANNELS📺" tvg-id="FX.Movie.Channel.us",FX Movie Channel
+https://v15.thetvapp.to/hls/FXMovieChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png" group-title="MOVIE CHANNELS📺" tvg-id="FX.Movie.Channel.us",FX Movie Channel (SD)
+https://v15.thetvapp.to/hls/FXMovieChannel/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="MOVIE CHANNELS📺" tvg-id="HBO.-.Eastern.Feed.us",HBO - Eastern Feed
+https://v18.thetvapp.to/hls/HBOEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="MOVIE CHANNELS📺" tvg-id="HBO.-.Eastern.Feed.us",HBO - Eastern Feed (SD)
+https://v18.thetvapp.to/hls/HBOEast/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="MOVIE CHANNELS📺" tvg-id="HBO.2.-.Eastern.Feed.us",HBO 2 - Eastern Feed
+https://v2.thetvapp.to/hls/HBO2East/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="MOVIE CHANNELS📺" tvg-id="HBO.2.-.Eastern.Feed.us",HBO 2 - Eastern Feed (SD)
+https://v2.thetvapp.to/hls/HBO2East/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="MOVIE CHANNELS📺" tvg-id="HBO.Comedy.HD.-.East.us",HBO Comedy HD - East
+https://v1.thetvapp.to/hls/HBOComedyEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="MOVIE CHANNELS📺" tvg-id="HBO.Comedy.HD.-.East.us",HBO Comedy HD - East (SD)
+https://v1.thetvapp.to/hls/HBOComedyEast/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="MOVIE CHANNELS📺" tvg-id="HBO.Family.-.Eastern.Feed.us",HBO Family - Eastern Feed
+https://v1.thetvapp.to/hls/HBOFamilyEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="MOVIE CHANNELS📺" tvg-id="HBO.Family.-.Eastern.Feed.us",HBO Family - Eastern Feed (SD)
+https://v1.thetvapp.to/hls/HBOFamilyEast/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png" group-title="MOVIE CHANNELS📺" tvg-id="HBO.Signature.(HBO.3).-.Eastern.us",HBO Signature (HBO 3) - Eastern
+https://v15.thetvapp.to/hls/HBOSignatureEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png" group-title="MOVIE CHANNELS📺" tvg-id="HBO.Signature.(HBO.3).-.Eastern.us",HBO Signature (HBO 3) - Eastern (SD)
+https://v15.thetvapp.to/hls/HBOSignatureEast/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="MOVIE CHANNELS📺" tvg-id="HBO.Zone.HD.-.East.us",HBO Zone HD - East
+https://v14.thetvapp.to/hls/HBOZoneEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="MOVIE CHANNELS📺" tvg-id="HBO.Zone.HD.-.East.us",HBO Zone HD - East (SD)
+https://v14.thetvapp.to/hls/HBOZoneEast/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="MOVIE CHANNELS📺" tvg-id="Cinemax.-.Eastern.Feed.us",CINEMAX - Eastern Feed
+https://v13.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="MOVIE CHANNELS📺" tvg-id="Cinemax.-.Eastern.Feed.us",CINEMAX - Eastern Feed (SD)
+https://v13.thetvapp.to/hls/CinemaxEast/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-moviemax-us.png" group-title="MOVIE CHANNELS📺" tvg-id="MovieMax.(Max.6).-.East.us",MovieMax (Max 6) - East
+https://v17.thetvapp.to/hls/MovieMaxEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-moviemax-us.png" group-title="MOVIE CHANNELS📺" tvg-id="MovieMax.(Max.6).-.East.us",MovieMax (Max 6) - East (SD)
+https://v17.thetvapp.to/hls/MovieMaxEast/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="MOVIE CHANNELS📺" tvg-id="Starz.-.Eastern.us",Starz - Eastern
+https://v13.thetvapp.to/hls/StarzEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="MOVIE CHANNELS📺" tvg-id="Starz.-.Eastern.us",Starz - Eastern (SD)
+https://v13.thetvapp.to/hls/StarzEast/tracks-v2a1/mono.m3u8
