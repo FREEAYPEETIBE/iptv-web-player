@@ -1,0 +1,486 @@
+[
+  {
+    "name": "NBA LIVE",
+    "url": "https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/11.m3u8"
+  },
+  {
+    "name": "NBA LIVE",
+    "url": "https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/11.m3u82f8a60f"
+  },
+  {
+    "name": "NBA TV USA",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v17.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "NBA TV USA (SD)",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v17.thetvapp.to/hls/NBATV/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "4K TRAVEL",
+    "url": "https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8"
+  },
+  {
+    "name": "A2Z/ABS CBN",
+    "url": "https://cdn.ganbaruby23.xyz/stream/restream/alltv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
+  },
+  {
+    "name": "ALL TV",
+    "url": "https://cdn.ganbaruby23.xyz/stream/restream/alltv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
+  },
+  {
+    "name": "BUKO CHANNEL",
+    "url": "https://cdn.ganbaruby23.xyz/stream/restream/alltv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
+  },
+  {
+    "name": "CELESTIAL MOVIE",
+    "url": "https://cdn.ganbaruby23.xyz/stream/restream/alltv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
+  },
+  {
+    "name": "CINEMO",
+    "url": "https://cdn.ganbaruby23.xyz/stream/restream/cinemoph/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
+  },
+  {
+    "name": "DZBB SUPER RADYO",
+    "url": "https://dzbb.iyadix.workers.dev/ioslive/livestream/playlist.m3u8"
+  },
+  {
+    "name": "GMA",
+    "url": "https://cdn.ganbaruby23.xyz/stream/restream/gma/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
+  },
+  {
+    "name": "GTV",
+    "url": "https://cdn.ganbaruby23.xyz/stream/restream/gma/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
+  },
+  {
+    "name": "IBC",
+    "url": "https://cdn.ganbaruby23.xyz/stream/restream/gma/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
+  },
+  {
+    "name": "JEEPNEY TV",
+    "url": "https://cdn.ganbaruby23.xyz/stream/restream/jeepneytv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
+  },
+  {
+    "name": "KAPAMILYA CHANNEL",
+    "url": "https://cdn.ganbaruby23.xyz/stream/restream/kapamilyachannel/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
+  },
+  {
+    "name": "TV5",
+    "url": "http://ott.udptv.net/stream/iptv/tv5hd/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a"
+  },
+  {
+    "name": "Thrillers",
+    "url": "https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "DREAMWORKS TAGALIZED",
+    "url": "https://cdn.ganbaruby23.xyz/stream/restream/alltv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
+  },
+  {
+    "name": "ANIME ALL DAY",
+    "url": "https://pluto.xyadx.workers.dev/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8"
+  },
+  {
+    "name": "ANIME * HIDAVE",
+    "url": "https://amc-anime-x-hidive-1-us.tablo.wurl.tv/192.m3u8"
+  },
+  {
+    "name": "BABY SHARK TV",
+    "url": "https://newidco-babysharktv-1-eu.rakuten.wurl.tv/3000.m3u8"
+  },
+  {
+    "name": "BARBIE AND FRIENDS",
+    "url": "https://d1xqdnwy1bo05f.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jh1ol665g3amg/09a20cb2-e0e7-4e17-afdb-aa6b35ce6da0/3.m3u8"
+  },
+  {
+    "name": "BOOMERANG TV",
+    "url": "https://fl3.moveonjoy.com/BOOMERANG/index.m3u8"
+  },
+  {
+    "name": "CARTOONITO",
+    "url": "https://cdn4.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang-avc1_3000000=8.m3u8"
+  },
+  {
+    "name": "CRUNHYROLL",
+    "url": "https://pluto.xyadx.workers.dev/stitch/hls/channel/65652f7fc0fc88000883537a/master.m3u8"
+  },
+  {
+    "name": "ABC AUSTRALIA",
+    "url": "https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8"
+  },
+  {
+    "name": "AL JAZEERA",
+    "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"
+  },
+  {
+    "name": "AMERICA FUNNIEST VIDEO",
+    "url": "https://futuretoday-afv-family-2-be.samsung.wurl.tv/1200.m3u8"
+  },
+  {
+    "name": "ARIRANG HD",
+    "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8"
+  },
+  {
+    "name": "BILLIARD TV",
+    "url": "https://1b29dd71cd5e4191a3eb26afff631ed3.mediatailor.us-west-2.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-BilliardTV/c4e6753c-6014-4551-bef0-f212872de6a4/4.m3u8"
+  },
+  {
+    "name": "BOXING TV",
+    "url": "https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_v4.m3u8"
+  },
+  {
+    "name": "CGTN",
+    "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master480p.m3u8"
+  },
+  {
+    "name": "CNA",
+    "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8"
+  },
+  {
+    "name": "CI USA",
+    "url": "https://tv.iyadix.workers.dev/57256.m3u8"
+  },
+  {
+    "name": "DISCOVERY ASIA",
+    "url": "https://cdn3.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8"
+  },
+  {
+    "name": "DISCOVERY CHANNEL",
+    "url": "https://cdn3.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia-avc1_2499968=15.m3u8"
+  },
+  {
+    "name": "FAIL ARMY",
+    "url": "https://pluto.xyadx.workers.dev/stitch/hls/channel/554158e864526b29254ff105/master.m3u8"
+  },
+  {
+    "name": "FIGHT NETWORK",
+    "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877.m3u8"
+  },
+  {
+    "name": "FIGHT TV",
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8"
+  },
+  {
+    "name": "FILAM TV",
+    "url": "https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8"
+  },
+  {
+    "name": "American Pickers",
+    "url": "https://d2fmvezvf9jfft.cloudfront.net/playlist.m3u8"
+  },
+  {
+    "name": "America's Got Talent",
+    "url": "https://dhkq1p9audihq.cloudfront.net/index.m3u8"
+  },
+  {
+    "name": "America's Got Talent",
+    "url": "https://dhkq1p9audihq.cloudfront.net/index.m3u8"
+  },
+  {
+    "name": "ABC (WABC)",
+    "url": "http://fl1.moveonjoy.com/ABC_EAST/index.m3u8"
+  },
+  {
+    "name": "Aspire",
+    "url": "http://fl3.moveonjoy.com/Aspire/index.m3u8"
+  },
+  {
+    "name": "BET Jams",
+    "url": "http://fl3.moveonjoy.com/BET_Jams/index.m3u8"
+  },
+  {
+    "name": "COMEDY CENTRAL",
+    "url": "http://fl3.moveonjoy.com/Comedy_Central/index.m3u8"
+  },
+  {
+    "name": "ESPN",
+    "url": "http://41.205.93.154/ESPN/index.m3u8"
+  },
+  {
+    "name": "Pursuit Channel",
+    "url": "http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8"
+  },
+  {
+    "name": "CINEMAX - Eastern Feed",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v13.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "CINEMAX - Eastern Feed (SD)",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v13.thetvapp.to/hls/CinemaxEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "National Geographic US - Eastern (SD)",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v15.thetvapp.to/hls/NationalGeographicEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "National Geographic Wild",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v12.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "National Geographic Wild (SD)",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v12.thetvapp.to/hls/NationalGeographicWildEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "TNT - Eastern Feed",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v18.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "TNT - Eastern Feed (SD)",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v18.thetvapp.to/hls/TNTEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "Animal Planet US - East",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v14.thetvapp.to/hls/AnimalPlanetEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Animal Planet US - East (SD)",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v14.thetvapp.to/hls/AnimalPlanetEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "TeenNick - Eastern",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v17.thetvapp.to/hls/TeenNickEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "TeenNick - Eastern (SD)",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v17.thetvapp.to/hls/TeenNickEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "WWE Network",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://windnew.newkso.ru/wind/premium376/mono.m3u8"
+  },
+  {
+    "name": "TNT Sports 1 UK",
+    "url": "https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz"
+  },
+  {
+    "name": "TNT Sports 2 UK",
+    "url": "https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz"
+  },
+  {
+    "name": "TNT Sports 3 UK",
+    "url": "https://nfsnew.newkso.ru/nfs/premium33/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz"
+  },
+  {
+    "name": "TNT Sports 4 UK",
+    "url": "https://nfsnew.newkso.ru/nfs/premium34/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz"
+  },
+  {
+    "name": "TNT USA",
+    "url": "https://zekonew.newkso.ru/zeko/premium338/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz"
+  },
+  {
+    "name": "DREAMWORKS TAGALIZED",
+    "url": "https://cdn.ganbaruby23.xyz/stream/restream/alltv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f"
+  },
+  {
+    "name": "ANIME ALL DAY",
+    "url": "https://pluto.xyadx.workers.dev/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8"
+  },
+  {
+    "name": "ANIME * HIDAVE",
+    "url": "https://amc-anime-x-hidive-1-us.tablo.wurl.tv/192.m3u8"
+  },
+  {
+    "name": "BABY SHARK TV",
+    "url": "https://newidco-babysharktv-1-eu.rakuten.wurl.tv/3000.m3u8"
+  },
+  {
+    "name": "BARBIE AND FRIENDS",
+    "url": "https://d1xqdnwy1bo05f.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jh1ol665g3amg/09a20cb2-e0e7-4e17-afdb-aa6b35ce6da0/3.m3u8"
+  },
+  {
+    "name": "BOOMERANG TV",
+    "url": "https://fl3.moveonjoy.com/BOOMERANG/index.m3u8"
+  },
+  {
+    "name": "CARTOONITO",
+    "url": "https://cdn4.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang-avc1_3000000=8.m3u8"
+  },
+  {
+    "name": "CRUNHYROLL",
+    "url": "https://pluto.xyadx.workers.dev/stitch/hls/channel/65652f7fc0fc88000883537a/master.m3u8"
+  },
+  {
+    "name": "Boomerang",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v12.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Boomerang (SD)",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v12.thetvapp.to/hls/Boomerang/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "Nickelodeon",
+    "url": "http://fl1.moveonjoy.com/NICKELODEON/index.m3u8"
+  },
+  {
+    "name": "NickToons",
+    "url": "http://fl1.moveonjoy.com/NICKTOONS/index.m3u8"
+  },
+  {
+    "name": "CARTOON NETWORK USA - Eastern Feed",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v12.thetvapp.to/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "CARTOON NETWORK USA - Eastern Feed (SD)",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v12.thetvapp.to/hls/CartoonNetworkEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "DISNEY CHANNEL - Eastern Feed",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v3.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "DISNEY CHANNEL - Eastern Feed (SD)",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v3.thetvapp.to/hls/DisneyChannelEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "Disney JR USA - East",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v14.thetvapp.to/hls/DisneyJuniorEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Disney JR USA - East (SD)",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v14.thetvapp.to/hls/DisneyJuniorEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "Disney XD USA - Eastern Feed",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v15.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Disney XD USA - Eastern Feed (SD)",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v15.thetvapp.to/hls/DisneyXDEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "NICK JR. - East",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v1.thetvapp.to/hls/NickJrEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "NICK JR. - East (SD)",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v1.thetvapp.to/hls/NickJrEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "Nickelodeon USA - East Feed",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v17.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Nickelodeon USA - East Feed (SD)",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v17.thetvapp.to/hls/NickelodeonEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "Nicktoons - East",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v15.thetvapp.to/hls/NicktoonsEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Nicktoons - East (SD)",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v15.thetvapp.to/hls/NicktoonsEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "CURIOSITY STREAM",
+    "url": "https://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8"
+  },
+  {
+    "name": "HOLLYWOOD MOVIES",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8"
+  },
+  {
+    "name": "Baywatch",
+    "url": "https://d1ku2wsea2oun8.cloudfront.net/playlist.m3u8"
+  },
+  {
+    "name": "MovieSphere",
+    "url": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "AMC",
+    "url": "http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8"
+  },
+  {
+    "name": "American Heroes Channel",
+    "url": "http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8"
+  },
+  {
+    "name": "Sony Movie Channel",
+    "url": "http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8"
+  },
+  {
+    "name": "Start TV",
+    "url": "http://fl3.moveonjoy.com/Start_Tv/index.m3u8"
+  },
+  {
+    "name": "FX Movie Channel",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v15.thetvapp.to/hls/FXMovieChannel/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "FX Movie Channel (SD)",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v15.thetvapp.to/hls/FXMovieChannel/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "HBO - Eastern Feed",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v18.thetvapp.to/hls/HBOEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "HBO - Eastern Feed (SD)",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v18.thetvapp.to/hls/HBOEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "HBO 2 - Eastern Feed",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v2.thetvapp.to/hls/HBO2East/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "HBO 2 - Eastern Feed (SD)",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v2.thetvapp.to/hls/HBO2East/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "HBO Comedy HD - East",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v1.thetvapp.to/hls/HBOComedyEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "HBO Comedy HD - East (SD)",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v1.thetvapp.to/hls/HBOComedyEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "HBO Family - Eastern Feed",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v1.thetvapp.to/hls/HBOFamilyEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "HBO Family - Eastern Feed (SD)",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v1.thetvapp.to/hls/HBOFamilyEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "HBO Signature (HBO 3) - Eastern",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v15.thetvapp.to/hls/HBOSignatureEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "HBO Signature (HBO 3) - Eastern (SD)",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v15.thetvapp.to/hls/HBOSignatureEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "HBO Zone HD - East",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v14.thetvapp.to/hls/HBOZoneEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "HBO Zone HD - East (SD)",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v14.thetvapp.to/hls/HBOZoneEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "CINEMAX - Eastern Feed",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v13.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "CINEMAX - Eastern Feed (SD)",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v13.thetvapp.to/hls/CinemaxEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "MovieMax (Max 6) - East",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v17.thetvapp.to/hls/MovieMaxEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "MovieMax (Max 6) - East (SD)",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v17.thetvapp.to/hls/MovieMaxEast/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "Starz - Eastern",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v13.thetvapp.to/hls/StarzEast/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Starz - Eastern (SD)",
+    "url": "https://iptv-proxy-fgpp.onrender.com/proxy?url=https://v13.thetvapp.to/hls/StarzEast/tracks-v2a1/mono.m3u8"
+  }
+]
