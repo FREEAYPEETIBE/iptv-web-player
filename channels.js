@@ -1,0 +1,1 @@
+// Script dynamically loads the channel list.
