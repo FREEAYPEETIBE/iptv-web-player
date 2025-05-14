@@ -297,42 +297,22 @@
     {
       "name": "NICK JR. - East",
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png",
-      "url": "https://v1.thetvapp.to/hls/NickJrEast/tracks-v1a1/mono.m3u8"
-    },
-    {
-      "name": "NICK JR. - East (SD)",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png",
-      "url": "https://v1.thetvapp.to/hls/NickJrEast/tracks-v2a1/mono.m3u8"
+      "url": "https://windnew.newkso.ru/wind/premium329/mono.m3u8"
     },
     {
       "name": "Nickelodeon USA - East Feed",
       "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",
-      "url": "https://v17.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8"
-    },
-    {
-      "name": "Nickelodeon USA - East Feed (SD)",
-      "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",
-      "url": "https://v17.thetvapp.to/hls/NickelodeonEast/tracks-v2a1/mono.m3u8"
+      "url": "https://windnew.newkso.ru/wind/premium330/mono.m3u8"
     },
     {
       "name": "Nicktoons - East",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png",
-      "url": "https://v15.thetvapp.to/hls/NicktoonsEast/tracks-v1a1/mono.m3u8"
-    },
-    {
-      "name": "Nicktoons - East (SD)",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png",
-      "url": "https://v15.thetvapp.to/hls/NicktoonsEast/tracks-v2a1/mono.m3u8"
+      "url": "https://dokko1new.newkso.ru/dokko1/premium649/mono.m3u8"
     },
     {
       "name": "TeenNick - Eastern",
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/teen-nick-us.png",
-      "url": "https://v17.thetvapp.to/hls/TeenNickEast/tracks-v1a1/mono.m3u8"
-    },
-    {
-      "name": "TeenNick - Eastern (SD)",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/teen-nick-us.png",
-      "url": "https://v17.thetvapp.to/hls/TeenNickEast/tracks-v2a1/mono.m3u8"
+      "url": "https://dokko1new.newkso.ru/dokko1/premium650/mono.m3u8"
     }
   ],
   "NEWS/ENTERTAINMEN/DOCUMENTARY": [
@@ -583,12 +563,7 @@
     {
       "name": "CINEMAX - Eastern Feed",
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png",
-      "url": "https://v13.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8"
-    },
-    {
-      "name": "CINEMAX - Eastern Feed (SD)",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png",
-      "url": "https://v13.thetvapp.to/hls/CinemaxEast/tracks-v2a1/mono.m3u8"
+      "url": "https://zekonew.newkso.ru/zeko/premium374/mono.m3u8"
     },
     {
       "name": "CURIOSITY STREAM",
@@ -633,72 +608,37 @@
     {
       "name": "FX Movie Channel",
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png",
-      "url": "https://v15.thetvapp.to/hls/FXMovieChannel/tracks-v1a1/mono.m3u8"
-    },
-    {
-      "name": "FX Movie Channel (SD)",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png",
-      "url": "https://v15.thetvapp.to/hls/FXMovieChannel/tracks-v2a1/mono.m3u8"
+      "url": "https://zekonew.newkso.ru/zeko/premium381/mono.m3u8"
     },
     {
       "name": "HBO - Eastern Feed",
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png",
-      "url": "https://v18.thetvapp.to/hls/HBOEast/tracks-v1a1/mono.m3u8"
-    },
-    {
-      "name": "HBO - Eastern Feed (SD)",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png",
-      "url": "https://v18.thetvapp.to/hls/HBOEast/tracks-v2a1/mono.m3u8"
+      "url": "https://zekonew.newkso.ru/zeko/premium321/mono.m3u8"
     },
     {
       "name": "HBO 2 - Eastern Feed",
       "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",
-      "url": "https://v2.thetvapp.to/hls/HBO2East/tracks-v1a1/mono.m3u8"
-    },
-    {
-      "name": "HBO 2 - Eastern Feed (SD)",
-      "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",
-      "url": "https://v2.thetvapp.to/hls/HBO2East/tracks-v2a1/mono.m3u8"
+      "url": "https://nfsnew.newkso.ru/nfs/premium689/mono.m3u8"
     },
     {
       "name": "HBO Comedy HD - East",
       "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",
-      "url": "https://v1.thetvapp.to/hls/HBOComedyEast/tracks-v1a1/mono.m3u8"
-    },
-    {
-      "name": "HBO Comedy HD - East (SD)",
-      "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",
-      "url": "https://v1.thetvapp.to/hls/HBOComedyEast/tracks-v2a1/mono.m3u8"
+      "url": "https://nfsnew.newkso.ru/nfs/premium690/mono.m3u8"
     },
     {
       "name": "HBO Family - Eastern Feed",
       "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png",
-      "url": "https://v1.thetvapp.to/hls/HBOFamilyEast/tracks-v1a1/mono.m3u8"
-    },
-    {
-      "name": "HBO Family - Eastern Feed (SD)",
-      "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png",
-      "url": "https://v1.thetvapp.to/hls/HBOFamilyEast/tracks-v2a1/mono.m3u8"
+      "url": "hhttps://nfsnew.newkso.ru/nfs/premium691/mono.m3u8"
     },
     {
       "name": "HBO Signature (HBO 3) - Eastern",
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png",
-      "url": "https://v15.thetvapp.to/hls/HBOSignatureEast/tracks-v1a1/mono.m3u8"
-    },
-    {
-      "name": "HBO Signature (HBO 3) - Eastern (SD)",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png",
-      "url": "https://v15.thetvapp.to/hls/HBOSignatureEast/tracks-v2a1/mono.m3u8"
+      "url": "https://nfsnew.newkso.ru/nfs/premium693/mono.m3u8"
     },
     {
       "name": "HBO Zone HD - East",
       "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png",
-      "url": "https://v14.thetvapp.to/hls/HBOZoneEast/tracks-v1a1/mono.m3u8"
-    },
-    {
-      "name": "HBO Zone HD - East (SD)",
-      "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png",
-      "url": "https://v14.thetvapp.to/hls/HBOZoneEast/tracks-v2a1/mono.m3u8"
+      "url": "https://nfsnew.newkso.ru/nfs/premium694/mono.m3u8"
     },
     {
       "name": "CINEMAX - Eastern Feed",
